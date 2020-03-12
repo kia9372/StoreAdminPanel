@@ -1,0 +1,2 @@
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Shared\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Shared.AssemblyInfoInputs.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Shared\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Shared.AssemblyInfo.cs

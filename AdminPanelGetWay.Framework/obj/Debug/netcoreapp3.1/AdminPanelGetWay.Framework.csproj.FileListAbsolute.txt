@@ -1,0 +1,8 @@
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.deps.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.csprojAssemblyReference.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.AssemblyInfoInputs.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.AssemblyInfo.cs
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Framework\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.pdb

@@ -1,0 +1,15 @@
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.deps.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.runtimeconfig.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.runtimeconfig.dev.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Domain.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Domain.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.csprojAssemblyReference.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.AssemblyInfoInputs.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.AssemblyInfo.cs
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.csproj.CopyComplete
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.EF\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.EF.pdb

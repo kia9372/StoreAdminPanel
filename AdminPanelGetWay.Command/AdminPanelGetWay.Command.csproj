@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdminPanelGetWay.Domain\AdminPanelGetWay.Domain.csproj" />
+    <ProjectReference Include="..\AdminPanelGetWay.DTO\AdminPanelGetWay.DTO.csproj" />
+    <ProjectReference Include="..\AdminPanelGetWay.Framework\AdminPanelGetWay.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

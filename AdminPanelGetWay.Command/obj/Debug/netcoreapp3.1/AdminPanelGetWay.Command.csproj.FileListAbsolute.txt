@@ -1,0 +1,13 @@
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Command.deps.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Command.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Command.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Domain.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Domain.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\bin\Debug\netcoreapp3.1\AdminPanelGetWay.Framework.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.csprojAssemblyReference.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.AssemblyInfoInputs.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.AssemblyInfo.cs
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.csproj.CopyComplete
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.Command\obj\Debug\netcoreapp3.1\AdminPanelGetWay.Command.pdb

@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.DTO\\AdminPanelGetWay.DTO.csproj": {}
+  },
+  "projects": {
+    "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\AdminPanelGetWay.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\AdminPanelGetWay.Domain.csproj",
+        "projectName": "AdminPanelGetWay.Domain",
+        "projectPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\AdminPanelGetWay.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kianoush\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kianoush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\AdminPanelGetWay.Framework.csproj": {
+                "projectPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\AdminPanelGetWay.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.DTO\\AdminPanelGetWay.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.DTO\\AdminPanelGetWay.DTO.csproj",
+        "projectName": "AdminPanelGetWay.DTO",
+        "projectPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.DTO\\AdminPanelGetWay.DTO.csproj",
+        "packagesPath": "C:\\Users\\Kianoush\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kianoush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\AdminPanelGetWay.Domain.csproj": {
+                "projectPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Domain\\AdminPanelGetWay.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\AdminPanelGetWay.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\AdminPanelGetWay.Framework.csproj",
+        "projectName": "AdminPanelGetWay.Framework",
+        "projectPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\AdminPanelGetWay.Framework.csproj",
+        "packagesPath": "C:\\Users\\Kianoush\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProject\\StoreProject\\Backend\\AdminPanel\\store_project_adminpanel_getway\\AdminPanelGetWay\\AdminPanelGetWay.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kianoush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

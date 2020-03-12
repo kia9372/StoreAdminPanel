@@ -1,0 +1,8 @@
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.deps.json
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\bin\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.pdb
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.csprojAssemblyReference.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.AssemblyInfoInputs.cache
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.AssemblyInfo.cs
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.dll
+E:\MyProject\StoreProject\Backend\AdminPanel\store_project_adminpanel_getway\AdminPanelGetWay\AdminPanelGetWay.DAL.Dapper\obj\Debug\netcoreapp3.1\AdminPanelGetWay.DAL.Dapper.pdb
